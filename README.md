@@ -18,18 +18,58 @@ Built with Laravel, Blade, Tailwind CSS + Daisy UI Component, Alpine.js, and Rem
 
 ## Installation
 
-Clone the repository.
-
+Clone the repository
 ```bash
 git clone https://github.com/dimasa07/Laravel-starter.git
 cd Laravel-starter
+```
+
+Copy .env
+```bash
+cp .env.example .env
+```
+
+Configure database in .env
+```env
+DB_CONNECTION=mysql
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_DATABASE=laravel
+DB_USERNAME=root
+DB_PASSWORD=
 ```
 
 Install Composer Dependencies
 ```bash
 composer install
 ```
+
 Install Node Dependencies
 ```bash
 npm install
 ```
+
+Run Migration
+```bash
+php artisan migrate --seed
+```
+
+Generate App Key
+```bash
+php artisan key:generate
+```
+
+Run Application
+```bash
+php artisan serve
+```
+
+Run Vite Server
+```bash
+npm run dev
+```
+
+## Usage
+Login as Admin
+- Email: test@example.com
+- Password: password
