@@ -1,10 +1,10 @@
 # Laravel-starter
 
-Built with Laravel, Blade, Tailwind CSS + Daisy UI Component, Alpine.js, and Remix Icon.
+Built with Laravel 11, Blade, Tailwind CSS + Daisy UI Component, Alpine.js, and Remix Icon.
 
 ## Features
 - Responsesive on Small & Large Screen
-- Side Bar Menu (Small Sscreen) & Navbar Menu (Large Screen)
+- Side Bar Menu (Small Sscreen) & Nav Bar Menu (Large Screen)
 - Light/Dark Mode
 - Toast
 - Alert Modal
