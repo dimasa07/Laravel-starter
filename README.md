@@ -3,8 +3,8 @@
 Built with Laravel 11, Blade, Tailwind CSS + Daisy UI Component, Alpine.js, and Remix Icon.
 
 ## Features
-- Responsesive on Small & Large Screen
-- Side Bar Menu (Small Sscreen) & Nav Bar Menu (Large Screen)
+- Responsive on Small & Large Screen
+- Side Bar Menu (Small Screen) & Nav Bar Menu (Large Screen)
 - Light/Dark Mode
 - Toast
 - Alert Modal
@@ -14,7 +14,7 @@ Built with Laravel 11, Blade, Tailwind CSS + Daisy UI Component, Alpine.js, and 
 ## Requirements
 - Composer latest version
 - PHP v8.2-8.3
-- Node v18 and newest
+- Node JS v18 and newest
 
 ## Installation
 
